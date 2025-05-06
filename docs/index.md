@@ -1,4 +1,4 @@
-# pymui
+# superqt
 
 ## ![tiny](https://user-images.githubusercontent.com/1609449/120636353-8c3f3800-c43b-11eb-8732-a14dec578897.png) "missing" widgets and components for PyQt/PySide
 
@@ -17,13 +17,13 @@ Components are tested on:
 ## Installation
 
 ```bash
-pip install pymui
+pip install superqt
 ```
 
 ```bash
-conda install -c conda-forge pymui
+conda install -c conda-forge superqt
 ```
 
 ## Usage
 
-See the [Widgets](./widgets/index.md) and [Utilities](./utilities/index.md) pages for features offered by pymui.
+See the [Widgets](./widgets/index.md) and [Utilities](./utilities/index.md) pages for features offered by superqt.

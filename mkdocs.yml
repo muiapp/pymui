@@ -1,10 +1,10 @@
-site_name: pymui
-site_url: https://github.com/muiapp/pymui
+site_name: superqt
+site_url: https://github.com/pyapp-kit/superqt
 site_description: >-
-  Material widgets and components for PyQt/PySide
+  missing widgets and components for PyQt/PySide
 # Repository
-repo_name: muiapp/pymui
-repo_url: https://github.com/muiapp/pymui
+repo_name: pyapp-kit/superqt
+repo_url: https://github.com/pyapp-kit/superqt
 
 # Copyright
 copyright: Copyright &copy; 2021 - 2022
