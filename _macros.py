@@ -48,6 +48,7 @@ def define_env(env: "MacrosPlugin"):
     def show_members(cls: str):
         # import class
         module, name = cls.rsplit(".", 1)
+        print('module_____________________________777777777', module, name )
         _cls = getattr(import_module(module), name)
 
         first_q = next(
